@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matteo!
 - 👀 I’m interested in creating things and organizing thoughts 💡.
-- 🚀 I just dive in React galaxy .
+- 🚀 I just dive in React galaxy 💫👨‍🚀.
 - 🏓 I’m looking to collaborate with other humans 🤝.
 
 <!---
