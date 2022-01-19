@@ -2,13 +2,25 @@
 
 ## About this space
 
-Here are shown some repos I made to *learn and try* things.
+Here you can find some repos I created. Reports labelled as *sandbox* or *notes* are for *learning and trying* purposes only  and they are not intended to be real world projects.
 
 | Project       | Description   | Focus on      |
 | ------------- | :---: | ------------- |
-| Content Cell  | content | `React` |
-| Content Cell  | content | ES modules, deployment|
-| Content Cell  | content | SVG |
+| `sandbox-react-spa`  | A simple SPA made with React and deployed to Vercel | React, CRA, Styled-Components, Vercel |
+| `sandbox-static-deployment`  | Trying out ES modules and set up a basic deployment | ES modules, Vercel |
+| `notes-async-js`  | Notes on asynchronous code in Javascript | Javascript, async, fundamentals |
+
+### Project: `sandbox-react-spa`
+
+tbd
+
+### Project: `sandbox-static-deployment`
+
+tbd
+
+### Project: `notes-async-js`
+
+tbd
 
 ## About me
 
