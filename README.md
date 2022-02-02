@@ -8,7 +8,7 @@ Here you can find some repos I've created. Repos whose name starts with *sandbox
 | Repository       | Description   | Focus on      |
 | ------------- | :---: | ------------- |
 | `sandbox-react-spa`  | A simple SPA made with React and deployed to Vercel | React, CRA, Styled-Components, Vercel |
-| `sandbox-static-deployment`  | Trying out ES modules and set up a basic deployment | ES modules, Vercel |
+| `sandbox-static-deployment`  | Trying out ES modules and set up a basic deployment | ES modules, Vercel, Yarn |
 
 ## About me
 
