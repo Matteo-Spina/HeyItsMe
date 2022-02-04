@@ -2,8 +2,7 @@
 
 ## About this space
 
-Here you can find some repos I've created. Repos whose name starts with *sandbox* or *notes* are for *learning and trying* purposes only
-(and probably are not super tidy 💨).
+Here you can find some repos I've created. Repos whose name starts with *sandbox* or *notes* are for 📚*learning* and 🧪💥*trying* purposes only.
 
 | Repository       | Description   | Focus on      |
 | ------------- | :---: | ------------- |
