@@ -12,8 +12,16 @@ see also my 📦 [CodeSandbox](https://codesandbox.io/u/Matteo-Spina) for code d
 ## About me
 
 👋 Hi, I’m Matteo!
-> Shall be things ⚗⚙ or thoughts 📐💡, understanding is like catching a thrown ball⚾
 
+<details>
+<summary>Doggerel</summary>
+<p>
+
+*Shall be things ⚗⚙ or thoughts 📐💡, understanding is like catching a thrown ball⚾*
+
+What is a [Doggerel](https://www.vocabulary.com/dictionary/doggerel)?
+</p>
+</details>
 
 <!---
 Matteo-Spina/Matteo-Spina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
