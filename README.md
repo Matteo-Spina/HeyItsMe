@@ -2,10 +2,17 @@
 
 Here you can find some repos I've created. Repos whose name starts with *sandbox* or *notes* are for 📚*learning* and 🧪💥*trying* purposes only.
 
-| Repository       | Description   | Focus on      |
-| ------------- | :---: | ------------- |
-| `sandbox-react-spa`  | A simple SPA made with React and deployed to Vercel | React, CRA, Styled-Components, Vercel |
-| `sandbox-static-deployment`  | Trying out ES modules and set up a basic deployment | ES modules, Vercel, Yarn |
+- `sandbox-react-spa` 
+  
+    A simple SPA made with React and deployed to Vercel
+  
+    focus on: React, CRA, Styled-Components, Vercel
+
+- `sandbox-static-deployment`
+
+    Trying out ES modules and set up a basic deployment
+
+    focus on: ES modules, Yarn 
 
 see also my 📦 [CodeSandbox](https://codesandbox.io/u/Matteo-Spina) for code drafts and examples.
 
@@ -14,12 +21,12 @@ see also my 📦 [CodeSandbox](https://codesandbox.io/u/Matteo-Spina) for code d
 👋 Hi, I’m Matteo!
 
 <details>
-<summary>Doggerel</summary>
+<summary>💭</summary>
 <p>
 
 *Shall be things ⚗⚙ or thoughts 📐💡, understanding is like catching a thrown ball⚾*
 
-What is a [Doggerel](https://www.vocabulary.com/dictionary/doggerel)?
+Is this a [Doggerel](https://www.vocabulary.com/dictionary/doggerel)?
 </p>
 </details>
 
