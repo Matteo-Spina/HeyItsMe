@@ -1,6 +1,6 @@
 # Welcome to Matteo's GitHub
 
-Here you can find some repos I've created mainly for 📚*learning* and 🧪💥*trying* purposes only.
+Here you can find some repos I've created mainly for 📚*learning* and 🧪💥*trying* purposes.
 
 - `sandbox-react-spa` 
   
