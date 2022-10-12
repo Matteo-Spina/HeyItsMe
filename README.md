@@ -1,6 +1,6 @@
 # Welcome to Matteo's GitHub
 
-Here you can find some repos I've created. Repos whose name starts with *sandbox* or *notes* are for 📚*learning* and 🧪💥*trying* purposes only.
+Here you can find some repos I've created mainly for 📚*learning* and 🧪💥*trying* purposes only.
 
 - `sandbox-react-spa` 
   
@@ -14,7 +14,7 @@ Here you can find some repos I've created. Repos whose name starts with *sandbox
 
     focus on: ES modules, Yarn 
 
-see also my 📦 [CodeSandbox](https://codesandbox.io/u/Matteo-Spina) for code drafts and examples.
+Check out my 📦[CodeSandbox](https://codesandbox.io/u/Matteo-Spina) and 🖋[CodePen](https://codepen.io/matteo-spina) profiles for more code drafts and examples!
 
 ## About me
 
