@@ -2,13 +2,13 @@
 
 Here you can find some repos I've created mainly for 📚*learning* and 🧪💥*trying* purposes.
 
-- `sandbox-react-spa` 
+- `sandbox-react-spa`[↗](https://github.com/Matteo-Spina/sandbox-react-spa) 
   
     A simple SPA made with React and deployed to Vercel
   
     focus on: React, CRA, Styled-Components, Vercel
 
-- `sandbox-static-deployment`
+- `notes-esmodules`[↗](https://github.com/Matteo-Spina/notes-esmodules)
 
     Trying out ES modules and set up a basic deployment
 
