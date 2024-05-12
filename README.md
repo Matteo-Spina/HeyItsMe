@@ -2,7 +2,7 @@
 
 ## Profiles:
 
-### (Drafts and small examples)
+### Drafts and small examples
 
 - 🖋[CodePen](https://codepen.io/matteo-spina)
 - 📦[CodeSandbox](https://codesandbox.io/u/Matteo-Spina)
