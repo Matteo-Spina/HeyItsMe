@@ -1,22 +1,38 @@
 # Welcome to Matteo's GitHub
 
-Check out my 📦[CodeSandbox](https://codesandbox.io/u/Matteo-Spina) and 🖋[CodePen](https://codepen.io/matteo-spina) profiles for code drafts and examples!
+## Profiles:
 
-Here you can find some repos I've created mainly for 📚*learning* and 🧪💥*trying* purposes.
+### (Drafts and small examples)
 
-- `sandbox-react-spa`[↗](https://github.com/Matteo-Spina/sandbox-react-spa) **archived**
+- 🖋[CodePen](https://codepen.io/matteo-spina)
+- 📦[CodeSandbox](https://codesandbox.io/u/Matteo-Spina)
+
+### Currently working on:
+
+- My [personal website](https://www.matteos.land)🌄;  [_private repo_]
+- Web UI development 💻 assistance for small orgs;
+
+### Tech Stack
+
+Mainly working with 👩‍🚀#Astro, 🚀#React, 🔵#TS and ✨#CSS;
+
+### Old Stuff
+
+Some old repos I've created for 📚*learning* and 🧪💥*trying* purposes.
+
+- `sandbox-react-spa`[↗](https://github.com/Matteo-Spina/sandbox-react-spa) [**archived**]
   
     A simple SPA made with React and deployed to Vercel
   
     #React, #CRA, #Styled-Components, #Vercel, #responsive
 
-- `notes-esmodules`[↗](https://github.com/Matteo-Spina/notes-esmodules) **archived**
+- `notes-esmodules`[↗](https://github.com/Matteo-Spina/notes-esmodules) [**archived**]
 
     Trying out ES modules and set up a basic deployment
 
     #modules, #Yarn
 
-
+## 
 ## About me
 
 👋 Hi, I’m Matteo!
